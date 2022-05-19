@@ -1,0 +1,10 @@
+﻿  UT5.1E.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\PR5.1E\Money.cpp(115,9): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\PR5.1E\Money.cpp(116,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\PR5.1E\Money.cpp(134,9): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\PR5.1E\Money.cpp(135,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\PR5.1E\Money.cpp(292): warning C4715: 'Money::operator>=': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\PR5.1E\Money.cpp(261): warning C4715: 'Money::operator<': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\PR5.1E\Money.cpp(323): warning C4715: 'Money::operator<=': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\PR5.1E\Money.cpp(236): warning C4715: 'Money::operator>': not all control paths return a value
+  UT5.1E.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1E\Debug\UT5.1E.dll
